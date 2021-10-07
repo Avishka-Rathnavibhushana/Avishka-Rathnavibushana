@@ -3,8 +3,9 @@
 <a href="https://github.com/Avishka-Rathnavibushana">
   <img alt="Profile" align="center" src="https://github-readme-stats.vercel.app/api?username=Avishka-Rathnavibushana&count_private=true&show_icons=true&custom_title=My%20Github%20Statistics&hide=stars,issues" />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka-Rathnavibushana)](https://github.com/Avishka-Rathnavibushana/github-readme-stats)
 <a href="https://github.com/Avishka-Rathnavibushana">
-  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka-Rathnavibushana&langs_count=1&layout=compact" />
+  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka-Rathnavibushana&langs_count=9&layout=compact" />
 </a>
 
 <br />
